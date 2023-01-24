@@ -1,4 +1,3 @@
-# TSWD-Repository
 
 - Web page URL: https://kulmeher.github.io/TSWD-Repository/
 - This repository: https://github.com/kulmeher/TSWD-Repository/
