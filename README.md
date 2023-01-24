@@ -15,6 +15,14 @@ Currently, I'm hoping to push forward an explicitly equity oriented agenda in th
 We live in a world of abundance, where we could all be guaranteed life, liberty, the pursuit of happiness, AND housing, healthcare, and opportunities to prosper collectively. Through effective policy choices, we can assure this future for the next generation. To create an appetite for these policies, we need effective methods of communication. That's where learning how to tell stories with data comes in.  
 
 
+# What I hope to learn
+I hope to learn more than my brain and my body have the time for! But, in these short few months, I would be happy to come away with a deeper understanding of: 
+
+1. How to develop a public portfolio chronicling my attempts at useful and practical data visualizations
+2. How to use new software, like Tableau
+3. Color Theory -- and its applicability to the field of public policy
+
+
 # Portfolio
 Hi! This is my public portfolio for Telling Stories with Data at CMU! Over the course of this semester, this is where I will be uploading all of my cool work. I hope you will want to hire me after this! 
 
@@ -29,10 +37,3 @@ These placeholders will link to my completed final project soon.
 [Part I]
 [Part II]
 [Part III]
-
-# What I hope to learn
-I hope to learn more than my brain and my body have the time for! But, in these short few months, I would be happy to come away with a deeper understanding of: 
-
-1. How to develop a public portfolio chronicling my attempts at useful and practical data visualizations
-2. How to use new software, like Tableau
-3. Color Theory -- and its applicability to the field of public policy
