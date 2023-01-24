@@ -21,7 +21,8 @@ Hi! This is my public portfolio for Telling Stories with Data at CMU! Over the c
 ## Examples 
 My future work will be available here
 
-## Assignment: [First Public Assigment to Come](
+## Assignments
+This placeholder will link to my public assignments. 
 
 ## Final Project
 These placeholders will link to my completed final project soon. 
