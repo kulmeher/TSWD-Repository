@@ -30,7 +30,7 @@ These placeholders will link to my completed final project soon.
 [Part III]
 
 # What I hope to learn
-I hope to learn more than my brain and my body have the time for! But, in this short few months, I would be happy to come away with a deeper understanding of: 
+I hope to learn more than my brain and my body have the time for! But, in these short few months, I would be happy to come away with a deeper understanding of: 
 
 1. How to develop a public portfolio chronicling my attempts at useful and practical data visualizations
 2. How to use new software, like Tableau
