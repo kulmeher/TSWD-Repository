@@ -21,12 +21,13 @@ Hi! This is my public portfolio for Telling Stories with Data at CMU! Over the c
 ## Examples 
 My future work will be available here
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [First Public Assigment to Come](
 
 ## Final Project
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+These placeholders will link to my completed final project soon. 
+[Part I]
+[Part II]
+[Part III]
 
 # What I hope to learn
 I hope to learn more than my brain and my body have the time for! But, in this short few months, I would be happy to come away with a deeper understanding of: 
