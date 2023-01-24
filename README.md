@@ -1,9 +1,7 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# TSWD-Repository
 
-- Web page URL: https://kulmeher.github.io/TSWDRepository/
-- This repository: https://github.com/kulmeher/TSWDRepository/
+- Web page URL: https://kulmeher.github.io/TSWD-Repository/
+- This repository: https://github.com/kulmeher/TSWD-Repository/
 
 
 # About me
