@@ -23,13 +23,13 @@ I hope to learn more than my brain and my body have the time for! But, in these 
 # Portfolio
 Hi! This is my public portfolio for Telling Stories with Data at CMU! Over the course of this semester, this is where I will be uploading all of my cool work. I hope you will want to hire me after this! 
 
-## Examples 
+### Examples 
 My future work will be available here
 
-## Assignments
+### Assignments
 This placeholder will link to my public assignments. 
 
-## Final Project
+### Final Project
 These placeholders will link to my completed final project soon. 
 [Part I]
 [Part II]
