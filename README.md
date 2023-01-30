@@ -40,7 +40,6 @@ Above, this is the data straight from the OECD website.
 Above is the data with a simple visualization that we created with guidance from our instructors. 
 
 
-
 We started with our first public assignment this week. Here, I am implementing the data visualization techniques I have learned in weeks one and two in order to recreate this OECD data on government debt. 
 
 
