@@ -33,6 +33,14 @@ Week 2: [Visualizing Government Debt](https://github.com/kulmeher/TSWD-Repositor
 
 <iframe src="https://data.oecd.org/chart/6Y2P" width="800" height="600" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</iframe>
 
+Above, this is the data straight from the OECD website. 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12596184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Above is the data with a simple visualization that we created with guidance from our instructors. 
+
+
+
 We started with our first public assignment this week. Here, I am implementing the data visualization techniques I have learned in weeks one and two in order to recreate this OECD data on government debt. 
 
 
