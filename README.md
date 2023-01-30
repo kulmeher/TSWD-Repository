@@ -29,6 +29,11 @@ My future work will be available here
 ### Assignments
 This placeholder will link to my public assignments. 
 
+Week 2: [Visualizing Government Debt](https://github.com/kulmeher/TSWD-Repository/blob/d3fa40e2766aea963503fc5c6ce0a1d0f788ad45/visualizing-government-debt.md)
+
+We started with our first public assignment this week. Here, I am implementing the data visualization techniques I have learned in weeks one and two in order to recreate this OECD data on government debt. 
+
+
 ### Final Project
 These placeholders will link to my completed final project soon. 
 [Part I]
