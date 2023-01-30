@@ -62,6 +62,8 @@ Finally, here is my visualization created for this data. Instead of creating mul
    - Data Viz 2: In data viz 2, we see that the information at a glance is the ratio of debt to GDP for specific countries over a time period (1995-2019). It is not easily apparent what the ratio is for a given year. A country by country comparison can take place, but over the longer term time period. Additionally, due to the large quantity of line graphs within the grid, it is not easy to compare countries that are not placed close to one another.
    - Data Viz 3: In data viz 3, we see that both the information from data viz 1 and data viz 2 are visible at a glance -- we can compare the debt to gdp ratio of countries over a long time period, or a single year period, and we can see at a glance, what the individual ratio of debt to gdp for countries has been over time. This data visualization falls short in that it is dynamic -- due to the use of the time slider, a reader may need to spend more time on the graph to toggle between the different years. However, this time slider has the benefit of helping the information be conveyed in a clean way -- thereby increasing total clarity. 
 
+Overall, due to the use of color, and effectiveness of the visualizations, elaborated on above, I prefer data viz 3 to data viz 1 or 2. 
+
 [^1]: The source for this data is at the following link. [OECD Data on Government Debt] (https://data.oecd.org/gga/general-government-debt.htm) 
 [^2]: Ibid. 
 
