@@ -39,6 +39,12 @@ Above, this is the data straight from the OECD website.
 
 Above is the data with a simple visualization that we created with guidance from our instructors. 
 
+<div class="flourish-embed flourish-scatter" data-src="visualisation/12596419"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Finally, above here is my visualization created for this data. Instead of creating multiple line charts, I chose to visualize the data on a dynamic line graph with dot's symbolizing each countries GDP to Debt Ratio for that year. In this way, all of the information is easily interpretable. If information on a single year is needed, the user can toggle between years using the time slider. When the time slider is paused, the user can get information on the debt to GDP ratio for a single country at one year in time, and compare this information with other countries. 
+
+I used the complementary colors of blue and orange for my data viz -- blue is a calming color, which I thought would look good and not too distracting as the line indicating a countries range of debt to GDP ratio. The orange is bright enough to call your attention to the GDP to Debt ratio at a single year in time, without dominating the visualization. 
+
 
 We started with our first public assignment this week. Here, I am implementing the data visualization techniques I have learned in weeks one and two in order to recreate this OECD data on government debt. 
 
