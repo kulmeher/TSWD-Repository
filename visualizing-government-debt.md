@@ -1,5 +1,7 @@
 | [home page](https://kulmeher.github.io/TSWD-Repository/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+[Visualizing Government Debt HTML link] (https://kulmeher.github.io/TSWD-Repository/visualizing-government-debt.html)
+
 ### Visualizing Government Debt
 We started with our first public assignment this week. Here, I am implementing the data visualization techniques I have learned in weeks one and two in order to recreate this OECD data on government debt 1. For this assignment, we worked with this one data set to produce three different data visualizations. The second and third visualizations were created using the free platform, Flourish.
 
