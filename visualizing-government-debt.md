@@ -4,7 +4,7 @@
 We started with our first public assignment this week. Here, I am implementing the data visualization techniques I have learned in weeks one and two in order to recreate this OECD data on government debt 1. For this assignment, we worked with this one data set to produce three different data visualizations. The second and third visualizations were created using the free platform, Flourish.
 
 First Data Visualization: Simple Bar Graph
-The first data visualiation comes directly from the OECD website. This bar graph is a simple overview of the ratio of Government Debt to GDP, within a single year. For this viz, I used the year of 2019.
+The first data visualiation comes directly from the OECD website. This bar graph is a simple overview of the ratio of Government Debt to GDP, within a single year. For this viz, I used the year of 2019. 
 
 <iframe src="https://data.oecd.org/chart/6Y2P" width="800" height="600" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</iframe>
 Second Data Visualization: Grid of Line Graphs
