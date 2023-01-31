@@ -32,8 +32,7 @@ In Week 1, we did not have any public assignments.
 
 #### Week 2: [Visualizing Government Debt](https://github.com/kulmeher/TSWD-Repository/blob/d3fa40e2766aea963503fc5c6ce0a1d0f788ad45/visualizing-government-debt.md)
 
-[Visualizing Government Debt
-]([url](https://github.com/kulmeher/visualizing-government-debt.html))
+[Visualizing Government Debt HTML link](https://kulmeher.github.io/TSWD-Repository/visualizing-government-debt.html)
 
 We started with our first public assignment this week. Here, I am implementing the data visualization techniques I have learned in weeks one and two in order to recreate this OECD data on government debt [^1]. For this assignment, we worked with this one data set to produce three different data visualizations. The second and third visualizations were created using the free platform, [Flourish](https://flourish.studio/index.html).  
 
