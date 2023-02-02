@@ -14,14 +14,14 @@ The first data visualiation comes directly from the OECD website. [^1] This bar 
 
 For our second data visualization, we created a grid of line charts with guidance from our class instructors. This grid of lines charts depicts the ratio of Government Debt to GDP, for individual countries (each country has one line chart, the grid is made up of all countries for which we have data), with the line indicating the ratio of debt to GDP of that specific country, beginning in 1995, and going all the way until 2019. The color of the lines has been changed to green, a secondary color, to draw attention to each countries ratio, in a way that is eye-catching yet not overwhelming. The use of color here is intentional, as the only display of a bright color within the entire grid. The rest of the grid is black and grey, denoting background information. Finally, the x-axis is only found at the bottom of the grid, in order to not repeat information unnecessarily. As this grid has many entries, it may require some scrolling from the reader to interpret the initial graphs, but the increased white space is worth this trade-off.
 
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed flourish-chart" data-src="visualisation/12596184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Third Data Visualization: Individual Take on Above Information
 #### Dynamic Scatterplot and Line Graph in One
 
 Finally, here is my visualization created for this data. Instead of creating multiple line charts, I chose to visualize the data as a dynamic scatterplot and line graph combined. The line graph with dot's symbolizes each countries GDP to Debt Ratio for that year. In this way, all of the information is easily interpretable. If information on a single year is needed, the user can toggle between years using the time slider. When the time slider is paused, the user can get information on the debt to GDP ratio for a single country at one year in time, and compare this information with other countries. When the time slider is played, the user can glean valuable insights on Government Debt to GDP ratios over time.
 
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/12596419"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 I will now compare each of these data visualizations based on their use of color, and the effectiveness of the overall visualization.
 
