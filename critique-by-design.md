@@ -58,6 +58,10 @@ I think the intended audience is policy folks, who need this information to legi
 - Is there anything you would change or do differently?
 Thevisualization looks clunky,  the subject line is too long, and  the lack of numbers at the end of the data sources makes it confusing to look at what the actual bar chart numbers mean. I might try to combine them both into a single chart. 
 
+##### Testing a new visualization
+At this point, I had some time before my next user interview. I used this time to quickly sketch out a new visualization. 
+![Visualization Attempt Pt. 2](/Users/kulmeherdhaliwal/Downloads/Untitled_Artwork.jpg "Visualization Attempt Pt. 2")
+
 ##### Subject Number 2
 Subject Number 2 was an Asian male, between 25-35 years of age, who is currently a student. I asked him the following questions. His responses follows. 
 
