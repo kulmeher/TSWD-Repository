@@ -80,3 +80,25 @@ The intended audience is confusing me, I think this might just be an inforgraphi
 - Is there anything you would change or do differently?
 The main thing I would change is the two different colors and use of two titles on the y axis. I like the second image. I think it may be clearer if you organized them both better. 
 
+### 5. My Final Visualization 
+
+Finally, after two rounds of data visualization, I created my final data visualization. After receiving my user feedback and obtaining feedback from my peers in the course, I settled on a completely new visualization. This treemap visualization seemed to me superior to my other attempts because it: 
+
+1. Highlighted the differing impacts of internet financial crimes in a direct, visual, and aesthetic manner. 
+2. Included the main data points, but in a way where the visualization spoke for itself. 
+3. Allowed me to remove those data points which had 0 values, without taking away from the overall meaning. 
+4. Finally, unlike other visualization's I experimented with, this allowed my legend to be the clearest with regards to color and impact. 
+
+<div class='tableauPlaceholder' id='viz1675836946879' style='position: relative'><noscript><a href='#'><img alt='Internet Financial Crimes: Cost of Crime does not always correlate to Number of People Impacted  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;InternetFinancialCrimesFinal&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='InternetFinancialCrimesFinal&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;InternetFinancialCrimesFinal&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1675836946879');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+As a reminder, the original visualization looked like this: ![Original Data Visualization](Screen Shot 2023-02-08 at 1.03.03 AM.png)
+This original data came from the FBI's database on internet based financial crimes. The report that I pulled information from is linked here: ([2020 Internet Crime Report: FBI])(https://www.ic3.gov/Media/PDF/AnnualReport/2020_IC3Report.pdf). The data source itself is linked here: ([2020 Internet Crime Report: FBI, subsetted for California])(https://www.ic3.gov/Media/PDF/AnnualReport/2020State/StateReport.aspx#?s=6). 
+
