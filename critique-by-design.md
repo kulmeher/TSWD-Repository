@@ -84,10 +84,11 @@ The main thing I would change is the two different colors and use of two titles 
 
 Finally, after two rounds of data visualization, I created my final data visualization. After receiving my user feedback and obtaining feedback from my peers in the course, I settled on a completely new visualization. This treemap visualization seemed to me superior to my other attempts because it: 
 
-1. Highlighted the differing impacts of internet financial crimes in a direct, visual, and aesthetic manner. 
-2. Included the main data points, but in a way where the visualization spoke for itself. 
-3. Allowed me to remove those data points which had 0 values, without taking away from the overall meaning. 
-4. Finally, unlike other visualization's I experimented with, this allowed my legend to be the clearest with regards to color and impact. 
+1. It accurately allowed me to portray scale, which was not accurately portrayed in the original data visualization. 
+2. Highlighted the differing impacts of internet financial crimes in a direct, visual, and aesthetic manner. 
+3. Included the main data points, but in a way where the visualization spoke for itself. 
+4. Allowed me to remove those data points which had 0 values, without taking away from the overall meaning. 
+5. Finally, unlike other visualization's I experimented with, this allowed my legend to be the clearest with regards to color and impact. 
 
 <div class='tableauPlaceholder' id='viz1675836946879' style='position: relative'><noscript><a href='#'><img alt='Internet Financial Crimes: Cost of Crime does not always correlate to Number of People Impacted  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;InternetFinancialCrimesFinal&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='InternetFinancialCrimesFinal&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;InternetFinancialCrimesFinal&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
