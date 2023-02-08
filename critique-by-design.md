@@ -59,19 +59,24 @@ I think the intended audience is policy folks, who need this information to legi
 Thevisualization looks clunky,  the subject line is too long, and  the lack of numbers at the end of the data sources makes it confusing to look at what the actual bar chart numbers mean. I might try to combine them both into a single chart. 
 
 ##### Testing a new visualization
-At this point, I had some time before my next user interview. I used this time to quickly sketch out a new visualization. I used this new visualization and the prior visualization in order to solicit the second round of user feedback. 
-![Visualization Attempt Pt. 2](/Users/kulmeherdhaliwal/Downloads/Untitled_Artwork.jpg)
+At this point, I had some time before my next user interview. I used this time to quickly sketch out a new visualization, which was not as visually appealing as the first on tableau, but incorporated some new ideas I had. I used this new visualization and the prior visualization in order to solicit the second round of user feedback. 
+![Visualization Attempt Pt. 2](Untitled_Artwork.jpg)
 
 ##### Subject Number 2
 Subject Number 2 was an Asian male, between 25-35 years of age, who is currently a student. I asked him the following questions. His responses follows. 
 
 - Can you tell me what you think this is?
-This is a sketch for an internet crimes
+This is a sketch for an internet crimes are with a confusing color overlay. The second (original tableau in this case) is showing me information about what I assume is the same data, but in a better way. I see what you are trying to do with both of the colors now, but think that the second option is preferable. 
 
 - Can you describe to me what this is telling you?
+This is telling me about the ways in which Internet Crimes have a different impact in dollars than they do in impact to peoples lives. I am confused about how the impact to peoples lives is being measured -- emotions, money, or something else entirely? 
 
 - Is there anything you find surprising or confusing?
+I find the use of color confusing in the first image you showed me. I also find the two labels on the y axis confusing. I think that the way in which the red is sometimes on top and sometimes are the bottom is confusing too. The use of two separate side by side graphs is better in the second image (tableau). I think that if you want to use to the first image, you should make sure that the use of color and where the color goes is standardized. 
 
 - Who do you think is the intended audience for this?
+The intended audience is confusing me, I think this might just be an inforgraphic type of image that shows impact of financial crimes online. 
 
 - Is there anything you would change or do differently?
+The main thing I would change is the two different colors and use of two titles on the y axis. I like the second image. I think it may be clearer if you organized them both better. 
+
