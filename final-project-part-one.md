@@ -19,8 +19,11 @@ Resolution: Where flavored tobacco products and e-cigarettes are banned, this wo
 #### Initial Sketches 
 
 ![Setup](Untitled_Artwork.png)
+This is my visualization for what the setup of the public page will look like. 
 
 ![Conflict](Untitled_Artwork 1.png)
+This is my visualization for what the conflict of the public page will look like. 
+
 
 ![Resolution](Untitled_Artwork 2.png)
 
