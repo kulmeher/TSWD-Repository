@@ -37,5 +37,3 @@ These data sources will be used to draw information on current trends in e-cigar
 #### Method and Medium 
 As we go through this process, I envision using either Tableau or Flourish to create clean and upfront data visualizations. These data visualizations will then be displayed on a publically accessible website, created through Shorthand or through Esri's Story maps. The eventual medium chosen will depend on how the data visualizations can be best understood. 
 
-
-
