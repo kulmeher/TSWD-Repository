@@ -17,9 +17,13 @@ Conflict: Flavored tobacco products are increasing youth nicotine usage
 Resolution: Where flavored tobacco products and e-cigarettes are banned, this worrying trend can be reversed. 
 
 #### Initial Sketches 
+
 ![Setup](Untitled_Artwork.png)
+
 ![Conflict](Untitled_Artwork 1.png)
+
 ![Resolution](Untitled_Artwork 2.png)
+
 #### Data Sources
 There are a variety of data sources available. I hope to make use of one or more of the following:
 - [Annual National Tobacco Youth Survey](https://www.fda.gov/tobacco-products/youth-and-tobacco/results-annual-national-youth-tobacco-survey)
