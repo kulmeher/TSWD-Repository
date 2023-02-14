@@ -36,6 +36,7 @@ There are a variety of data sources available. These data sources have a variety
 - [Results of the California Teens Nicotine and Tobacco Project Online Survey 2021-2022](https://www.cdph.ca.gov/Programs/CCDPHP/DCDIC/CTCB/CDPH%20Document%20Library/ResearchandEvaluation/FactsandFigures/TNTOnlineSurveyWave-1-Report-2022_06_16%20-ADA.pdf)
 - [Campaign for Tobacco Free Kids](https://www.tobaccofreekids.org/assets/factsheets/0416.pdf) - this link provides some context for other studies with contrary findings. 
 - [Results of the Statewide 2019-2022 California Student Tobacco Survey](https://www.cdph.ca.gov/Programs/CCDPHP/DCDIC/CTCB/CDPH%20Document%20Library/ResearchandEvaluation/FactsandFigures/2019-20CSTSBiennialReport_7-27-2021.pdf)
+- [Youth Tobacco Survey Data 1999-2017](https://catalog.data.gov/dataset/youth-tobacco-survey-yts-data)
 
 These data sources will be used to draw information on current trends in e-cigarette usage for youth, compare them with previous trends (in years before the widespread advent of e-cigarettes) and compare two cities in terms of youth nicotine usage. This data will then be used to make the case for banning the sale of e-cigarettes statewide, to decrease youth cigarette usage. These data sources will also be used to demonstrate the methods utilized to ingest nicotine-- whether e-cigarettes, cigarettes, cigars, or other forms. 
 
