@@ -94,6 +94,5 @@ This week I had a lot of trouble with finding the right data in order to make my
 Given the feedback I got in my user interviews, I think I will move forward by more explicitly laying out the impacts of tobacco usage, espcially on young people. Additionally, I will make sure that I am defining what e-cigarettes are and the increased risks of flavored tobacco products, including e-cigarettes. Finally, if a state comparison for California falls short, I may include some information on what the state of legislation is overall. 
 
 
-
-
+Shorthand Link:  https://preview.shorthand.com/TLuA0qTcQbRy3MqC
 
