@@ -91,7 +91,9 @@ No.
 #### Conclusion
 This week I had a lot of trouble with finding the right data in order to make my point. As I came up with this project, I thought of the story I wanted to tell, in terms of what felt important to me. As someone who lived in San Francisco for many years, I thought that a story about a reduction in smoking would be a useful tool moving forward. However, I am finding that there is much debate around the efficacy of San Francisco's ban on e-cigarettes. In addition, there seem to be some years 2013-2014 specifically, where information is missing in some of the data sets I planned to use. 
 
-Given the feedback I got in my user interviews, I think I will move forward by more explicitly 
+Given the feedback I got in my user interviews, I think I will move forward by more explicitly laying out the impacts of tobacco usage, espcially on young people. Additionally, I will make sure that I am defining what e-cigarettes are and the increased risks of flavored tobacco products, including e-cigarettes. Finally, if a state comparison for California falls short, I may include some information on what the state of legislation is overall. 
+
+
 
 
 
