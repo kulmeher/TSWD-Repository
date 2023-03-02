@@ -42,51 +42,89 @@ The findings from this user research were as follows:
 Non-peronally identifiable information: Graduate student, Male, 26-34, began smoking as a teenager (17 years of age), smokes both cigarettes and vapes. 
 
 What do you think the call to action is? 
+
 - Stop e-cig smoking among teens
+
 Who do you think the target audience is? 
+
 - State lawmakers and concerned citizens 
+
 Which of these data visualizations was the most impactful? Why? 
+
 Which one of these was the least impactful? Why? 
+
 - Visualizations are severely lacking. 
+
 What was confusing about this? 
+
 - The framing of the risks and the health effects could be more explicitly outlined. They were painted in broad strokes instead of precisely articulated. 
+
 What would you change? 
+
 - The call to action’s narrative could be more integrated with the rest of it. With the list of risks punctuating the urgency for change. 
+
 Do you have any concluding thoughts that I might not have asked a direct question about? 
+
 - The original comparison idea was nice. I think that the impact could be better understood if you compared two cities or states. 
 
 ###### User 2
 Non-peronally identifiable information: Graduate Student, male, 26-34 never smoked
 
 What do you think the call to action is? 
+
 - Ban the sale of flavored vapes 
+
 Who do you think the target audience is? 
+
 - Policy makers and individuals 
+
 Which of these data visualizations was the most impactful? Why? 
+
 Which one of these was the least impactful? Why? 
+
 - No visualizations!! 
+
 What was confusing about this? 
+
 - The connection between e-cigarettes and flavor is not fully fleshed out. It would be better to add some information about that. 
+
 What would you change? 
+
 - I would include more visuals and graphics than are currently included. 
+
 Do you have any concluding thoughts that I might not have asked a direct question about? 
+
 - I was confused about the state of ca information, it doesnt really tie into anything else. I would de-emphasize it a bit. 
 
 ###### User 3
 Non-peronally identifiable information: Graduate student, female, 18-24, occasional social smoker since teens 
+
 What do you think the call to action is? 
+
 - Signing up to support the end of e-cigarettes 
+
 Who do you think the target audience is? 
+
+
 - The target audience is average people who will sign a survey
+
 Which of these data visualizations was the most impactful? Why? 
+
 Which one of these was the least impactful? Why? 
+
 - There were no visualizations I saw. 
+
 What was confusing about this? 
+
 - I didn't like how the color scheme was all dark in the back. I think a white space in the background would be better. The part where you talk about the harms of tobacco could be more in depth to incentivize people better. 
+
 What would you change? 
+
 - I am not sure. I think you need more data and information in general. Right now it all seems really high level without any key insights.  
+
 Do you have any concluding thoughts that I might not have asked a direct question about? 
-No.  
+
+- No.  
 
 #### Conclusion
 This week I had a lot of trouble with finding the right data in order to make my point. As I came up with this project, I thought of the story I wanted to tell, in terms of what felt important to me. As someone who lived in San Francisco for many years, I thought that a story about a reduction in smoking would be a useful tool moving forward. However, I am finding that there is much debate around the efficacy of San Francisco's ban on e-cigarettes. In addition, there seem to be some years 2013-2014 specifically, where information is missing in some of the data sets I planned to use. 
