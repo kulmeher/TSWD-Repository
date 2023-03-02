@@ -24,9 +24,14 @@ I wanted my narrative to follow a compelling structure, so I planned to use the 
 This story arc proved to be very useful for the rest of the project development. However, data challenges in Part 2 led to an update of the Resolution to reflect the statistical unreliability of the effectiveness of the San Francisco ban due to paucity of large sized data sets [^3], and studies which indicated that the ban increased tobacco usage in San Francisco[^4]. Though my information search led to an explanation ([Campaign for Tobacco Free Kids](https://www.tobaccofreekids.org/assets/factsheets/0416.pdf)) for the contradicting nature of these results, I decided to stay away from the comparison entirely. 
 
 #### Part 2
-In the second week, I began work on the final form of my project on Shorthand for narrative, supplemented by data visualization. I had hoped to use the data that I had originally outlined for use. Here, I ran into the challenges described above. I found myself unable to tell the story I had hoped to tell about San Francisco. I looked with other stories that I could tell with my data, but found that the CDC datasets that I hoped to work with were yearly datasets, with information at state levels about nicotine usage. This data had already been used to create easily accessible visualizations
+In the second week, I began work on the final form of my project on Shorthand for narrative, supplemented by data visualization. Creating a moodboard for the story was helpful in creating my project outline in Shorthand. 
 
-In week two, I dove deeper into my user research, recruiting folks who I knew to be active users of nicotine, occasional users of nicotine, and never users of nicotine. 
+I had hoped to use the data that I had originally outlined for use. Here, I ran into the challenges described above. I found myself unable to tell the story I had hoped to tell about San Francisco. I looked with other stories that I could tell with my data, but found that the CDC datasets that I hoped to work with were yearly datasets, with information at state levels about nicotine usage. This data had already been used to create easily accessible visualizations
+
+In week two, I also dove deeper into my user research, recruiting folks who I knew to be active users of nicotine, occasional users of nicotine, and never users of nicotine. These users gave me valuable information about the way my narrative was shaping up, helping me to create a more impactful story. 
+
+#### Part 3
+In the final week of this project, I really started to see my project come together. 
 
 
 
