@@ -24,12 +24,20 @@ I wanted my narrative to follow a compelling structure, so I planned to use the 
 This story arc proved to be very useful for the rest of the project development. However, data challenges in Part 2 led to an update of the Resolution to reflect the statistical unreliability of the effectiveness of the San Francisco ban due to paucity of large sized data sets [^3], and studies which indicated that the ban increased tobacco usage in San Francisco[^4]. Though my information search led to an explanation ([Campaign for Tobacco Free Kids](https://www.tobaccofreekids.org/assets/factsheets/0416.pdf)) for the contradicting nature of these results, I decided to stay away from the comparison entirely. 
 
 #### Part 2
-In the second week, I began work with the data that I had originally outlined for use. Here, I ran into the challenges described above. 
+In the second week, I began work on the final form of my project on Shorthand for narrative, supplemented by data visualization. I had hoped to use the data that I had originally outlined for use. Here, I ran into the challenges described above. I found myself unable to tell the story I had hoped to tell about San Francisco. I looked with other stories that I could tell with my data, but found that the CDC datasets that I hoped to work with were yearly datasets, with information at state levels about nicotine usage. This data had already been used to create easily accessible visualizations
+
+In week two, I dove deeper into my user research, recruiting folks who I knew to be active users of nicotine, occasional users of nicotine, and never users of nicotine. 
+
 
 
 [^1] Koh, H. K., & Douglas, C. E. (2019). The San Francisco Ban and the Future of e-Cigarettes. JAMA, 322(16), 1540. https://doi.org/10.1001/jama.2019.16181
+
 [^2] California Prohibits Retailers from Selling Flavored Tobacco Products. (n.d.). https://www.cdph.ca.gov/Programs/CCDPHP/DCDIC/CTCB/Pages/CAFlavorTobaccoLaw.aspx#:~:text=On%20November%208%2C%202022%2C%20California,selling%20most%20flavored%20tobacco%20products.
+
 [^3] Zhu S-H, Braden K, Zhuang Y-L, Gamst A, Cole AG, Wolfson T, Li S. (2021).
 Results of the Statewide 2019-20 California Student Tobacco Survey. San Diego, California: Center
 for Research and Intervention in Tobacco Control (CRITC), University of California San Diego. 
+
 [^4] Friedman, A. S. (2021). A Difference-in-Differences Analysis of Youth Smoking and a Ban on Sales of Flavored Tobacco Products in San Francisco, California. JAMA Pediatrics, 175(8), 863. https://doi.org/10.1001/jamapediatrics.2021.0922
+
+
