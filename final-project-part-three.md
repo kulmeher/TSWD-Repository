@@ -37,9 +37,14 @@ In the final week of this project, I really started to see my project come toget
 
 I created visualizations that would follow along with my original story arc. 
 
-    - Setup: To illustrate the dropping nicotine consumption rates, I created two graphs that showed how tobacco consumption had been dropping in the United States for adults and for teens and children. 
-    - Conflict: To illustrate the impact of flavored e-cigarettes on youth nicotine usage, I created a graph that showed a increase in youth e-cigarettes usage, from 1.5 in 2011 to 27.5 in 2019. This increase was over 1,733%! To further demonstrate this point, I added in a counter, which increases from 0 to 1,733. 
-    - Resolution: My original resolution: "Where flavored tobacco products and e-cigarettes are banned, this worrying trend can be reversed." had to be changed as I was no longer undertaking a comparison between San Francisco and another city. To this end, I added some text to incentivize users to care about the problem enough to take action. Finally, I ended with a specific call to action for a person looking to implement policy changes to limit the sale of e-cigarettes and flavored tobacco, as well as a call to action message to support current e-cigarette users. 
+- Setup: 
+To illustrate the dropping nicotine consumption rates, I created two graphs that showed how tobacco consumption had been dropping in the United States for adults and for teens and children. 
+- Conflict: 
+To illustrate the impact of flavored e-cigarettes on youth nicotine usage, I created a graph that showed a increase in youth e-cigarettes usage, from 1.5 in 2011 to 27.5 in 2019. This increase was over 1,733%! To further demonstrate this point, I added in a counter, which increases from 0 to 1,733. 
+- Resolution: 
+My original resolution: 
+    -"Where flavored tobacco products and e-cigarettes are banned, this worrying trend can be reversed." 
+had to be changed as I was no longer undertaking a comparison between San Francisco and another city. To this end, I added some text to incentivize users to care about the problem enough to take action. Finally, I ended with a specific call to action for a person looking to implement policy changes to limit the sale of e-cigarettes and flavored tobacco, as well as a call to action message to support current e-cigarette users. 
     
 I followed up the creation of these data visualizations with another round of user research, with the same folks I ran my story by in Part 2. In Part 2, a lack of visualizations made it difficult for my user's to provide any feedback on the data visualization aspects of it. In this section of user research, I tried to simplify the questions asked to only 2: 
     1. Is the story here clear? 
