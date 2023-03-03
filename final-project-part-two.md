@@ -1,5 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
+| [home page](https://kulmeher.github.io/TSWD-Repository/) | [visualizing government debt](https://kulmeher.github.io/TSWD-Repository/visualizing-government-debt.html)) | [critique by design](https://kulmeher.github.io/TSWD-Repository/critique-by-design.html) | [final project I](https://kulmeher.github.io/TSWD-Repository/final-project-part-one) | [final project II](https://kulmeher.github.io/TSWD-Repository/final-project-part-two) | [final project III](https://kulmeher.github.io/TSWD-Repository/final-project-part-three) |
 # User Research 
 
 #### User Research Protocol
