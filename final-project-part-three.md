@@ -1,5 +1,10 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+Shorthand Link: https://carnegiemellon.shorthandstories.com/banning-flavored-e-cigarettes/index.html
+Web page URL: https://kulmeher.github.io/TSWD-Repository/
+This repository: https://github.com/kulmeher/TSWD-Repository/
+
+
 # Banning Flavored E-Cigarettes
 ## The Impact on Our Youth
 
@@ -31,9 +36,27 @@ I had hoped to use the data that I had originally outlined for use. Here, I ran 
 In week two, I also dove deeper into my user research, recruiting folks who I knew to be active users of nicotine, occasional users of nicotine, and never users of nicotine. These users gave me valuable information about the way my narrative was shaping up, helping me to create a more impactful story. 
 
 #### Part 3
-In the final week of this project, I really started to see my project come together. 
+In the final week of this project, I really started to see my project come together. The most beneficial step was finding data that existed in a way where I could use it. The data from my project primarily came from the [American Lung Association](https://www.lung.org/research/trends-in-lung-disease/tobacco-trends-brief/overall-tobacco-trends). 
 
+I created visualizations that would follow along with my original story arc. 
 
+    - Setup: To illustrate the dropping nicotine consumption rates, I created two graphs that showed how tobacco consumption had been dropping in the United States for adults and for teens and children. 
+    - Conflict: To illustrate the impact of flavored e-cigarettes on youth nicotine usage, I created a graph that showed a increase in youth e-cigarettes usage, from 1.5 in 2011 to 27.5 in 2019. This increase was over 1,733%! To further demonstrate this point, I added in a counter, which increases from 0 to 1,733. 
+    - Resolution: My original resolution: "Where flavored tobacco products and e-cigarettes are banned, this worrying trend can be reversed." had to be changed as I was no longer undertaking a comparison between San Francisco and another city. To this end, I added some text to incentivize users to care about the problem enough to take action. Finally, I ended with a specific call to action for a person looking to implement policy changes to limit the sale of e-cigarettes and flavored tobacco, as well as a call to action message to support current e-cigarette users. 
+    
+I followed up the creation of these data visualizations with another round of user research, with the same folks I ran my story by in Part 2. In Part 2, a lack of visualizations made it difficult for my user's to provide any feedback on the data visualization aspects of it. In this section of user research, I tried to simplify the questions asked to only 2: 
+    1. Is the story here clear? 
+    2. Do you think the visualizations are supporting the narrative? 
+
+To both of these questions, I received generally positive feedback, except for one visualization, which all three users commented on. This visualization is represented below: 
+
+![Tableau Visualization](Sheet 1 (4).png)
+
+The critique I received about this visualization can be summarized into 2 points: 1. The story was about youth vaping, and a contrast with adults, while helpful, was not as useful as the counter % tracker. 2. The visualization was rendering in a difficult to read manner on my shorthand.
+
+I removed the visualization and found that I agreed with the feedback, so kept it out of my final Shorthand. I have included it here as insight into my process. 
+
+I identified as my audience two general personas: 1. A lay-person interested in public health and advocacy, who would be willing to undertake a short action, and 2. a current e-cigarette user, who may need support in quitting. The current e-cigarette youth user input came from one of my user interviews, where someone pointed out that I should not omit my target demographic from my call to action. 
 
 [^1] Koh, H. K., & Douglas, C. E. (2019). The San Francisco Ban and the Future of e-Cigarettes. JAMA, 322(16), 1540. https://doi.org/10.1001/jama.2019.16181
 
