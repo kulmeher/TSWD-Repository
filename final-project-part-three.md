@@ -1,9 +1,6 @@
-| [home page](https://kulmeher.github.io/TSWD-Repository/) | [visualizing government debt](https://kulmeher.github.io/TSWD-Repository/visualizing-government-debt.html)) | [critique by design](https://kulmeher.github.io/TSWD-Repository/critique-by-design.html) | [final project I](https://kulmeher.github.io/TSWD-Repository/final-project-part-one) | [final project II](https://kulmeher.github.io/TSWD-Repository/final-project-part-two) | [final project III](https://kulmeher.github.io/TSWD-Repository/final-project-part-three) |
+| [home page](https://kulmeher.github.io/TSWD-Repository/) | [visualizing government debt](https://kulmeher.github.io/TSWD-Repository/visualizing-government-debt.html)) | [critique by design](https://kulmeher.github.io/TSWD-Repository/critique-by-design.html) | [final project I](https://kulmeher.github.io/TSWD-Repository/final-project-part-one) | [final project II](https://kulmeher.github.io/TSWD-Repository/final-project-part-two) | [final project III](https://kulmeher.github.io/TSWD-Repository/final-project-part-three) | [Final Project: Shorthand](https://carnegiemellon.shorthandstories.com/banning-flavored-e-cigarettes/index.html) |
 
 Shorthand Link: https://carnegiemellon.shorthandstories.com/banning-flavored-e-cigarettes/index.html
-Web page URL: https://kulmeher.github.io/TSWD-Repository/
-This repository: https://github.com/kulmeher/TSWD-Repository/
-
 
 # Banning Flavored E-Cigarettes
 ## The Impact on Our Youth
@@ -57,6 +54,8 @@ The critique I received about this visualization can be summarized into 2 points
 I removed the visualization and found that I agreed with the feedback, so kept it out of my final Shorthand. I have included it here as insight into my process. 
 
 I identified as my audience two general personas: 1. A lay-person interested in public health and advocacy, who would be willing to undertake a short action, and 2. a current e-cigarette user, who may need support in quitting. The current e-cigarette youth user input came from one of my user interviews, where someone pointed out that I should not omit my target demographic from my call to action. 
+
+Overall, my iterative process through these last 3 weeks has shown me how much a clear data visualization and narrative structure can highlight and enhance the core message of a project. This process will be helpful to me for the rest of my life, as I go forward and try to share my ideas to make a difference. 
 
 [^1] Koh, H. K., & Douglas, C. E. (2019). The San Francisco Ban and the Future of e-Cigarettes. JAMA, 322(16), 1540. https://doi.org/10.1001/jama.2019.16181
 
