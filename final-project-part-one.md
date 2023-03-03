@@ -1,4 +1,5 @@
-| [home page](https://kulmeher.github.io/TSWD-Repository/) | [visualizing government debt](https://kulmeher.github.io/TSWD-Repository/visualizing-government-debt.html)) | [critique by design](https://kulmeher.github.io/TSWD-Repository/critique-by-design.html) | [final project I](https://kulmeher.github.io/TSWD-Repository/final-project-part-one) | [final project II](https://kulmeher.github.io/TSWD-Repository/final-project-part-two) | [final project III](https://kulmeher.github.io/TSWD-Repository/final-project-part-three) |
+| [home page](https://kulmeher.github.io/TSWD-Repository/) | [visualizing government debt](https://kulmeher.github.io/TSWD-Repository/visualizing-government-debt.html)) | [critique by design](https://kulmeher.github.io/TSWD-Repository/critique-by-design.html) | [final project I](https://kulmeher.github.io/TSWD-Repository/final-project-part-one) | [final project II](https://kulmeher.github.io/TSWD-Repository/final-project-part-two) | [final project III](https://kulmeher.github.io/TSWD-Repository/final-project-part-three) | [Final Project: Shorthand](https://carnegiemellon.shorthandstories.com/banning-flavored-e-cigarettes/index.html) |
+
 
 # Final Project Part I: Rise in Teen Nicotine Addiction Due to E-Cigarettes 
 
