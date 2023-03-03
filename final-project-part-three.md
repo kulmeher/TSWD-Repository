@@ -66,6 +66,6 @@ I identified as my audience two general personas: 1. A lay-person interested in 
 Results of the Statewide 2019-20 California Student Tobacco Survey. San Diego, California: Center
 for Research and Intervention in Tobacco Control (CRITC), University of California San Diego. 
 
-[^4] Friedman, A. S. (2021). A Difference-in-Differences Analysis of Youth Smoking and a Ban on Sales of Flavored Tobacco Products in San Francisco, California. JAMA Pediatrics, 175(8), 863. https://doi.org/10.1001/jamapediatrics.2021.0922
+[^4] Friedman, A. S. (2021). A Difference-in-Differences Analysis of Youth Smoking and a Ban on Sales of Flavored Tobacco Products in San Francisco, California. JAMA Pediatrics, 175(8), 863. https://doi.org/10.1001/jamapediatrics.2021.0922 
 
 
