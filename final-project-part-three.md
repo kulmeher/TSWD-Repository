@@ -41,6 +41,7 @@ I created visualizations that would follow along with my original story arc.
 To illustrate the dropping nicotine consumption rates, I created two graphs that showed how tobacco consumption had been dropping in the United States for adults and for teens and children. 
 - Conflict: 
 To illustrate the impact of flavored e-cigarettes on youth nicotine usage, I created a graph that showed a increase in youth e-cigarettes usage, from 1.5 in 2011 to 27.5 in 2019. This increase was over 1,733%! To further demonstrate this point, I added in a counter, which increases from 0 to 1,733. 
+This data visualization, of the counter, is the visualization that I think adds the most to my project. I think the increase from 0 to 1,733% was a very clear indicator of the issue at hand, and help to create a sense of urgency around the issue. 
 - Resolution: 
 My original resolution: 
     -"Where flavored tobacco products and e-cigarettes are banned, this worrying trend can be reversed." 
